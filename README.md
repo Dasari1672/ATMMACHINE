@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](https://github.com/Dasari1672/ATMMACHINE/blob/main/README.md#introduction)
 - [Installation](https://github.com/Dasari1672/ATMMACHINE/blob/main/README.md#installation)
-- [Technologies Used]()
+- [Technologies Used](https://github.com/Dasari1672/ATMMACHINE/blob/main/README.md#technologies-used)
 - [Usage](https://github.com/Dasari1672/ATMMACHINE/blob/main/README.md#usage)
 - [Resources](https://github.com/Dasari1672/ATMMACHINE/blob/main/README.md#resources)
 - [Contributing](https://github.com/Dasari1672/ATMMACHINE/blob/main/README.md#contributing)
