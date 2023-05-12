@@ -1,14 +1,14 @@
 ## ATM Machine
 
 ## Table of Contents
-- [Introduction]()
-- [Installation]()
-- [Prerequisites]()
+- [Introduction](https://github.com/Dasari1672/ATMMACHINE#introduction)
+- [Installation](https://github.com/Dasari1672/ATMMACHINE#installation)
 - [Technologies Used]()
-- [Usage]()
+- [Usage](https://github.com/Dasari1672/ATMMACHINE#usage)
+- [Resources](https://github.com/Dasari1672/ATMMACHINE#resources)
 - [Contributing]()
-- [License]()
-- [Acknowledgments]()
+- [License](https://github.com/Dasari1672/ATMMACHINE#license)
+- [Acknowledgments](https://github.com/Dasari1672/ATMMACHINE#acknowledgments)
 
 ## Introduction
 
