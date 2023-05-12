@@ -22,6 +22,9 @@ Open the project in your preferred Java IDE (e.g. Eclipse, IntelliJ)
 - Build the project using the IDE's build/run tools or by running the Main.java file in the src folder.
 - Follow the prompts in the console to interact with the ATM machine.
 
+## Technologies Used
+- Java
+
 ## Usage
 The ATM Machine supports the following transactions:
 
