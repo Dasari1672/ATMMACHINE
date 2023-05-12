@@ -10,6 +10,8 @@
 - [License]()
 - [Acknowledgments]()
 
+##Introduction
+
 The ATM Machine project is a simple application that simulates an ATM machine's functionality. The user can enter their PIN and select from a menu of available transactions, such as withdrawing cash or checking their balance. The project is built using Java and uses object-oriented programming principles to model the ATM machine's behavior.
 
 ## Installation
