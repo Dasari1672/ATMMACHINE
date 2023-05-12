@@ -46,6 +46,15 @@ The following resources were used in the creation of this project:
 - Eclipse IDE
 - IntelliJ IDEA IDE
 
+## Contributing
+Contributions are welcome! If you want to contribute to this project, please follow these steps:
+
+- Fork the project
+- Create a new branch: git checkout `-b my-new-branch`
+- Make your changes and commit them: `git commit -am 'Add some feature'`
+- Push your changes to your fork: `git push origin     my-new-branch`
+- Create a new pull request
+
 ## License
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License
 
